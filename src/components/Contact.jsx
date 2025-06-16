@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import image from "../assets/contact.jpeg";
+import image from "../assets/contact.jpg";
 import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
