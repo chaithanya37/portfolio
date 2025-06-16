@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import image from "../assets/contact.jpg";
 import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
@@ -53,11 +52,6 @@ const Contact = () => {
           variants={slideIn("right", "tween", 0.1, 0.5)}
           className="md:h-auto md:flex-1"
         >
-          <img
-            src={image}
-            alt="contact-us"
-            className="h-20 w-20 object-contain"
-          />
         </motion.div>
       </div>
       <div className="mb-4 ml-5">
