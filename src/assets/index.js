@@ -36,10 +36,9 @@ import mongodbCompass from "./tools/mongodbCompass.png";
 import postman from "./tools/postman.png";
 import ubuntu from "./tools/ubuntu.png";
 import Impress from "./tools/Impress.png";
+import ECommerce from "./ECommerce.png";
+import Handyman from "./Handyman.png";
 
-import e_commerce from "./e-commerce.png";
-import proConnectup from "./proConnectup.jpg";
-import portfolio from "./portfolio.png";
 
 export {
   logo,
@@ -76,7 +75,7 @@ export {
   postman,
   ubuntu,
   Impress,
-  e_commerce,
-  proConnectup,
-  portfolio,
+  ECommerce,
+  Handyman
+
 };

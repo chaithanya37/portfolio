@@ -25,7 +25,7 @@ const ProjectCard = ({
             className="h-full w-full rounded-2xl object-cover"
           />
 
-          <div className="card-img_hover absolute inset-0 m-3 flex justify-end">
+          {/* <div className="card-img_hover absolute inset-0 m-3 flex justify-end">
             <div
               onClick={() => window.open(live_link, "_blank")}
               className="black-gradient mr-1 flex h-10 w-10 cursor-pointer items-center justify-center rounded-full"
@@ -46,7 +46,7 @@ const ProjectCard = ({
                 className="h-3/4 w-3/4 object-contain"
               />
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="mt-5">
@@ -80,8 +80,7 @@ const Works = () => {
           className="mt-3  text-[17px] leading-[30px] text-secondary"
         >
           Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
+          real-world examples of my work. It reflects my
           ability to solve complex problems, work with different technologies,
           and manage projects effectively.
         </motion.p>

@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className=" mt-4 max-w-3xl text-[17px] leading-[30px] text-secondary"
       >
-        I'm a skilled software developer with experience in JavaScript, and
+        I'm a skilled software developer with experience in Java, and
         expertise in frameworks like React, Node.js, Express.js and MongoDB. I'm
         a quick learner and collaborate closely with clients to create
         efficient, scalable, and user-friendly solutions that solve real-world
@@ -72,7 +72,7 @@ const About = () => {
         </div>
       </div>
       <div className="flex-center-center mt-20 flex-col">
-        <h3 className={styles.sectionSubText}>Tools and Software</h3>
+        <h3 className={`${styles.sectionHeadText} marker`}>Tools and Software</h3>
         <div className="mt-2 flex flex-wrap  justify-center gap-10 ">
           {tools.map((item, i) => (
             <div key={i} className="flex-around-center w-[80px] flex-col">
