@@ -62,7 +62,7 @@ const Contact = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://drive.google.com/file/d/1nRlZVLfDmwFFWVzqphbjy6cav4Op7iYT/view?usp=sharing"
+            href="https://drive.google.com/file/d/1OyrNtdCU0IlSxaq2scpkrsyTNW0Mljj0/view?usp=sharing"
           >
             <Button variant="outlined" endIcon={<ArrowOutward />}>
               Resume
