@@ -30,7 +30,7 @@ import {
   python,
   bootstrap,
   mysql,
-  postgres
+  postgres,
 } from "../assets";
 
 const navLinks = [
