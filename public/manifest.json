@@ -1,0 +1,21 @@
+
+{
+  "short_name": "Portfolio",
+  "name": "Chaithnaya's Portfolio",
+  "icons": [
+    {
+      "src": "logo.webp",
+      "type": "image/png/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.webp",
+      "type": "image/png/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
