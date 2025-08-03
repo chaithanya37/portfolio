@@ -145,8 +145,8 @@ const projects = [
     ],
     image: ECommerce,
     alt: "E-Commerce",
-    source_code_link: "",
-    live_link: "",
+    source_code_link: "https://github.com/chaithanya37/E-Commerce-App.git",
+    live_link: "https://e-commerce-app-vkmh.onrender.com",
   },
   {
     name: "Handyman Services",
